@@ -1,0 +1,57 @@
+{
+  "corpusId": "test_upload.txt",
+  "status": "completed",
+  "reliability": {
+    "evidenceStrength": 0.8,
+    "theoreticalDefensibility": 0.8875,
+    "hallucinationPenalty": 0.0,
+    "overallScore": 0.875,
+    "isAcademicallyDefensible": true
+  },
+  "findings": [
+    {
+      "finding_type": "Pragmatic Drift",
+      "theory": "Relevance Theory",
+      "interpretation": "The words 'literally' and 'awesome' have undergone semantic drift, where their meanings have shifted from their original definitions. 'Literally' is often used for emphasis rather than its original meaning of 'in a literal manner,' and 'awesome' has shifted from inspiring awe to a more general positive descriptor.",
+      "justification": "Relevance Theory suggests that language users aim for optimal relevance, which can lead to shifts in word meanings as they adapt to new contexts and uses. The words 'literally' and 'awesome' are examples of this drift.",
+      "ambiguity": "Low",
+      "reliabilityScore": 0.9,
+      "quotes": [
+        "Let's analyze how 'literally' and 'awesome' have drifted"
+      ]
+    },
+    {
+      "finding_type": "Speech Act",
+      "theory": "Speech Act Theory",
+      "interpretation": "The segment is performing a directive speech act by instructing to analyze the semantic drift of 'literally' and 'awesome.'",
+      "justification": "According to Speech Act Theory, directives are speech acts that aim to get the listener to do something. The phrase 'Let's analyze' is a directive.",
+      "ambiguity": "Low",
+      "reliabilityScore": 0.85,
+      "quotes": [
+        "Let's analyze how 'literally' and 'awesome' have drifted"
+      ]
+    },
+    {
+      "finding_type": "Semantic Drift",
+      "theory": "Lexical Semantics and Meaning Shifts",
+      "interpretation": "The word 'literally' has undergone semantic drift from its original meaning of 'in a literal manner' to being used as an intensifier in contexts where the statement is not literally true.",
+      "justification": "Lexical semantics studies how words change meaning over time. 'Literally' is a classic example of semantic drift, where its use as an intensifier contradicts its original definition.",
+      "ambiguity": "Low",
+      "reliabilityScore": 0.9,
+      "quotes": [
+        "Let's analyze how 'literally' and 'awesome' have drifted"
+      ]
+    },
+    {
+      "finding_type": "Semantic Drift",
+      "theory": "Lexical Semantics and Meaning Shifts",
+      "interpretation": "The word 'awesome' has shifted from its original meaning of 'inspiring awe' to a more general positive connotation, often used to mean 'excellent' or 'very good'.",
+      "justification": "Lexical semantics explains how words can broaden or shift in meaning. 'Awesome' has broadened from a specific emotional response to a general positive descriptor.",
+      "ambiguity": "Low",
+      "reliabilityScore": 0.9,
+      "quotes": [
+        "Let's analyze how 'literally' and 'awesome' have drifted"
+      ]
+    }
+  ]
+}

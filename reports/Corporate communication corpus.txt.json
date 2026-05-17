@@ -1,0 +1,57 @@
+{
+  "corpusId": "Corporate communication corpus.txt",
+  "status": "completed",
+  "reliability": {
+    "evidenceStrength": 0.8,
+    "theoreticalDefensibility": 0.9,
+    "hallucinationPenalty": 0.0,
+    "overallScore": 0.8800000000000001,
+    "isAcademicallyDefensible": true
+  },
+  "findings": [
+    {
+      "finding_type": "Speech Act",
+      "theory": "Speech Act Theory",
+      "interpretation": "The management team is performing an act of appreciation towards employees.",
+      "justification": "Speech Act Theory explains how utterances can perform actions. Here, the management's statement of appreciation is an expressive speech act.",
+      "ambiguity": "Low",
+      "reliabilityScore": 0.9,
+      "quotes": [
+        "The management team appreciates the continuous efforts of all employees during this transitional quarter"
+      ]
+    },
+    {
+      "finding_type": "Implicature",
+      "theory": "Grice's Theory of Implicature",
+      "interpretation": "The phrase 'adaptive sacrifice and disciplined coordination' implies that employees must accept increased workload and changes without complaint.",
+      "justification": "Grice's implicature suggests that meaning can be implied beyond the literal words. The use of 'adaptive sacrifice' suggests an expectation of acceptance of hardship.",
+      "ambiguity": "Medium",
+      "reliabilityScore": 0.85,
+      "quotes": [
+        "strategic optimization requires adaptive sacrifice and disciplined coordination"
+      ]
+    },
+    {
+      "finding_type": "Euphemism",
+      "theory": "Semantics",
+      "interpretation": "The term 'developmental feedback indicators' is a euphemism for 'employee complaints'.",
+      "justification": "Euphemisms are used to soften or obscure the reality of a situation. Here, 'developmental feedback indicators' is used to reframe 'complaints' in a more positive light.",
+      "ambiguity": "Low",
+      "reliabilityScore": 0.95,
+      "quotes": [
+        "replacing the term \u201cemployee complaints\u201d with \u201cdevelopmental feedback indicators\u201d"
+      ]
+    },
+    {
+      "finding_type": "Face-Threatening Act",
+      "theory": "Politeness Theory",
+      "interpretation": "Employees are warned that informal discussions of policy dissatisfaction could harm the company's reputation.",
+      "justification": "Politeness Theory addresses how language can threaten or maintain face. Warning against informal discussions is a face-threatening act towards employees' autonomy.",
+      "ambiguity": "Low",
+      "reliabilityScore": 0.9,
+      "quotes": [
+        "Informal discussions regarding policy dissatisfaction should be redirected through official reporting channels to avoid reputational disruption"
+      ]
+    }
+  ]
+}
