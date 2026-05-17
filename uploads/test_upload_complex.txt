@@ -1,0 +1,8 @@
+EXPERIMENTAL ANALYSIS OF PRAGMATIC MARKERS IN SCIENTIFIC DISCOURSE
+Abstract: This study investigates the use of hedging and politeness markers in academic writing.
+Introduction: It has been suggested that hedging might play a crucial role in maintaining objectivity. However, some researchers could argue that it introduces ambiguity.
+Methodology: We analyzed a corpus of 1000 papers.
+Results: Our findings indicate a significant presence of discourse markers such as 'therefore', 'consequently', and 'nevertheless'.
+Discussion: The emotional tone appears to be neutral, yet the complexity of the sentences suggests a high level of academic rigor.
+Conclusion: In conclusion, we are confident that this analysis provides a reliable metric for scientific communication.
+Please note that further studies are recommended.

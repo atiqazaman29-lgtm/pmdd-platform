@@ -1,0 +1,1 @@
+This is a sample corpus for linguistic analysis. We are testing the PMDD platform. The meaning of words can drift over time. This is a very interesting study on pragmatics and semantics. We hope the agents can find some hedging and politeness markers here.

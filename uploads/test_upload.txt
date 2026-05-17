@@ -1,0 +1,1 @@
+This is a test corpus for semantic drift analysis. It contains various segments of text where pragmatic meaning might shift over time. Let's analyze how 'literally' and 'awesome' have drifted. This is a multi-segment test to ensure Agents 3, 4, and 5 are triggered.
